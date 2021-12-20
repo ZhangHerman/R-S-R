@@ -1,6 +1,6 @@
 # R-S-R
 Spatio-Temporal Self-Supervision with Attention for Action Recognition
-### \R-S-R\selfsupervision\MirrorSSB\RBRF_2.py
+#### \R-S-R\selfsupervision\MirrorSSB\RBRF_2.py
 RBRF Algorithm
 # \R-S-R\selfsupervision\shuffle\reverse_random_batch_channel.py
 RBRC Algorithm
