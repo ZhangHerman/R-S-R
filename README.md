@@ -1,6 +1,7 @@
 # R-S-R
 Spatio-Temporal Self-Supervision with Attention for Action Recognition
 #### \R-S-R\selfsupervision\MirrorSSB\RBRF_2.py
+###### RBRF Algorithm with 2 kinds pseudo-labels for the final classification
 RBRF Algorithm with 2 kinds pseudo-labels for the final classification
 #### \R-S-R\selfsupervision\MirrorSSB\RBRF_2.py
 RBRF Algorithm with 5 kinds pseudo-labels for the final classification
