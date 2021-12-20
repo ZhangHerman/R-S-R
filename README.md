@@ -1,6 +1,7 @@
 # R-S-R
-![R-S-R](https://github.com/ZhangHerman/R-S-R/blob/main/R-S-R.PNG)
 Spatio-Temporal Self-Supervision with Attention for Action Recognition
+![Overview of Our R-S-R](https://github.com/ZhangHerman/R-S-R/blob/main/R-S-R.PNG)
+![Overview of Our RBRF Algorithm (The Case Where The Current Batch is Selected)](https://github.com/ZhangHerman/R-S-R/blob/main/RBRF.PNG)
 #### \R-S-R\selfsupervision\MirrorSSB\RBRF_2.py
 ###### RBRF Algorithm with 2 kinds of pseudo-labels for the final classification
 #### \R-S-R\selfsupervision\MirrorSSB\RBRF.py
