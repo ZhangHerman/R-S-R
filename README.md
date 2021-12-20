@@ -2,6 +2,7 @@
 Overview of Our R-S-R
 ![Overview of Our R-S-R](https://github.com/ZhangHerman/R-S-R/blob/main/R-S-R.PNG)
 #### \R-S-R\selfsupervision\MirrorSSB\RBRF_2.py
+Overview of Our RBRF Algorithm (The Case Where The Current Batch is Selected)
 ![Overview of Our RBRF Algorithm (The Case Where The Current Batch is Selected)](https://github.com/ZhangHerman/R-S-R/blob/main/RBRF.PNG)
 ###### RBRF Algorithm with 2 kinds of pseudo-labels for the final classification
 #### \R-S-R\selfsupervision\MirrorSSB\RBRF.py
